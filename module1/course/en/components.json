@@ -30,7 +30,7 @@
         "_layout":"left",
         "title":"Нээлттэй өгөгдөл гэж юу вэ?",
         "displayTitle":"Нээлттэй өгөгдөл гэж юу вэ?",
-        "body":"<p>Нээлттэй өгөгдөл бол <strong>data</strong> that <strong>anyone</strong> can <strong>access</strong>, <strong>use</strong> and <strong>share</strong>. Governments, businesses and individuals can use open data to bring about social, economic and environmental benefits.</p><h5>In this module we’ll explore the following:</h5><ul class='ticks'><li>What is open data?</li><li>What is data?</li><li>What makes data open?</li><li>Why do we need open data?</li></ul>",
+        "body":"<p>Нээлттэй өгөгдөл бол <strong>хэн ч</strong> чөлөөтэй <strong>авах</strong>, <strong>ашиглах</strong> болон <strong>цааш нь түгээх</strong> боломжтой өгөгдөл юм. Засгийн газар, бизнесийн байгууллаг and хувь хүмүүс нийгэм, эдийн засаг, хүрээлэн буй орчны ашиг тусыг хүртэх зорилгоор ашиглах боломжтой.</p><h5>Энэ хичээлээр бид дараах зүйлсийг суралцана:</h5><ul class='ticks'><li>Нээлттэй өгөгдөл гэж юу вэ?</li><li>Өгөгдөл гэж юу вэ?</li><li>Юу өгөгдлийг нээлттэй болгох вэ?</li><li>Нээлттэй өгөгдөл яагаад хэрэгтэй вэ?</li></ul>",
         "instruction":"",
         "_pageLevelProgress": {
             "_isEnabled": true
