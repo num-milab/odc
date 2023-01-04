@@ -388,9 +388,9 @@
   "_id": "course",
   "_type": "course",
   "_buttons": {
-    "submit": "Илгээх",
+    "submit": "Хариулах",
     "reset": "Дахих",
-    "showCorrectAnswer": "Жишиг хариу",
-    "hideCorrectAnswer": "Миний хариу"
+    "showCorrectAnswer": "Зөв хариулт",
+    "hideCorrectAnswer": "Миний хариулт"
   }
 }

@@ -30,7 +30,7 @@
         "_layout":"left",
         "title":"Нээлттэй өгөгдөл гэж юу вэ?",
         "displayTitle":"Нээлттэй өгөгдөл гэж юу вэ?",
-        "body":"<p>Нээлттэй өгөгдөл бол <strong>хэн ч</strong> чөлөөтэй <strong>авах</strong>, <strong>ашиглах</strong> болон <strong>цааш нь түгээх</strong> боломжтой өгөгдөл юм. Засгийн газар, бизнесийн байгууллаг and хувь хүмүүс нийгэм, эдийн засаг, хүрээлэн буй орчны ашиг тусыг хүртэх зорилгоор ашиглах боломжтой.</p><h5>Энэ хичээлээр бид дараах зүйлсийг суралцана:</h5><ul class='ticks'><li>Нээлттэй өгөгдөл гэж юу вэ?</li><li>Өгөгдөл гэж юу вэ?</li><li>Юу өгөгдлийг нээлттэй болгох вэ?</li><li>Нээлттэй өгөгдөл яагаад хэрэгтэй вэ?</li></ul>",
+        "body":"<p>Нээлттэй өгөгдөл бол <strong>хэн ч</strong> чөлөөтэй <strong>авах</strong>, <strong>ашиглах</strong> болон <strong>цааш нь түгээх</strong> боломжтой өгөгдөл юм. Засгийн газар, бизнесийн байгууллага болон хувь хүмүүс нийгэм, эдийн засаг, хүрээлэн буй орчны ашиг тусыг хүртэх зорилгоор ашиглах боломжтой.</p><h5>Энэ хичээлээр дараах зүйлсийг үзнэ:</h5><ul class='ticks'><li>Нээлттэй өгөгдөл гэж юу вэ?</li><li>Өгөгдөл гэж юу вэ?</li><li>Юу өгөгдлийг нээлттэй болгох вэ?</li><li>Нээлттэй өгөгдөл яагаад хэрэгтэй вэ?</li></ul>",
         "instruction":"",
         "_pageLevelProgress": {
             "_isEnabled": true
@@ -43,12 +43,12 @@
     "_component":"iFrame-vimeo",
     "_classes":"",
     "_layout":"full",
-        "title":"Discovering open data – in 2 minutes",
-        "displayTitle": "Discovering open data – in 2 minutes",
-        "body": "ODI Trainer Dr David Tarrant explains what data is, what makes it open and why we need open data.",
-        "instruction": "To turn subtitles on and off, click the 'cc' button at the bottom right of the video",
+        "title":"Нээлттэй өгөгдөлтэй 2 минутад танилцъя",
+        "displayTitle": "Нээлттэй өгөгдөлтэй 2 минутад танилцъя",
+        "body": "ODI сурагч багш Др. Дэвид Таррант өгөгдөл гэж юу болох, үүнийг юу нээлттэй болгодог, яагаад бидэнд хэрэгтэй болох талаар тайлбарлана.",
+        "instruction": "Видеоны яриаг бичгээр харах бол видеоны баруун доод хэсэгт байрлах 'cc' товч дээр дарна уу.",
         "_setCompletionOn":"ended",
-        "_source": "//europa.eu/webtools/crs/iframe/?oriurl=https://player.vimeo.com/video/266308637",
+        "_source": "https://europa.eu/webtools/crs/iframe/?oriurl=https://www.youtube.com/embed/ULJSlXuk0FU&list=PLT5rARDev_rnG9rj7hZG0hALPWQS8mLGA&index=1",
 	"_media": {
 		"mp4": "course/en/video/video.mp4",
 		"poster": "course/en/video/placeholder.jpg"
@@ -67,8 +67,8 @@
         "_classes":"",
         "_layout":"right",
         "_graphic": {
-            "alt": "What is open data?",
-            "title": "What is open data?",
+            "alt": "Нээлттэй өгөгдөл гэж юу вэ?",
+            "title": "Нээлттэй өгөгдөл гэж юу вэ?",
             "large": "course/en/images/odi-1-text-image_large.jpg",
             "medium": "course/en/images/odi-1-text-image_large.jpg",
             "small": "course/en/images/odi-1-text-image_large.jpg",
@@ -84,9 +84,9 @@
         "_component":"text",
         "_classes":"",
         "_layout":"left",
-        "title":"What is open data?",
-        "displayTitle":"What is open data?",
-        "body":"<p>Open data is data that <strong>anyone can access, use and share</strong>.</p><p>Open data becomes usable when made available in a common, machine-readable format.</p><p>Open data must be licensed. Its licence must permit people to use the data in any way they want, including transforming, combining and sharing it with others, even commercially.</p>"
+        "title":"Нээлттэй өгөгдөл гэж юу вэ?",
+        "displayTitle":"Нээлттэй өгөгдөл гэж юу вэ?",
+        "body":"<p>Нээлттэй өгөгдөл гэдэг нь <strong>хэн ч хандаж, ашиглаж бас хуваалцаж</strong> болдог өгөгдөл юм.</p><p>Нээлттэй өгөгдөл нь нийтлэг, машин унших форматтай байх үед хэрэглээтэй болдог.</p><p>Нээлттэй өгөгдөл лицензтэй (ашиглах нөхцөл) байх ёстой. Энэ лиценз нь хүмүүст өөрийн хүссэнээрээ хэрэглэхийг зөвшөөрдөг байх ёстой. Тухайлбал, өгөгдлийг хувиргах, нэгтгэх, бусадтай хуваалцах, ашиг олох зорилгоор хэрэглэх зэргийг зөвшөөрөх юм.</p>"
     },
      {
         "_id": "c-25",
@@ -95,49 +95,49 @@
         "_type":"component",
         "_layout": "full",
         "_component": "narrative",
-        "title": "From raw material to new information and knowledge",
-        "displayTitle": "From raw material to new information and knowledge",
-        "body": "Without data we can’t build information, and without information there is no new knowledge.",
-        "instruction": "<em class='desktop-instruction'>Click the forward arrow to see more.</em><em class='mobile-instruction'>Select the ‘+’ sign to explore further, then swipe the image to see more.</em>",
+        "title": "Түүхий эдээс шинэ мэдээлэл ба мэдлэг",
+        "displayTitle": "Түүхий эдээс шинэ мэдээлэл ба мэдлэг",
+        "body": "Бид өгөгдөлгүйгээр мэдээлэл гаргаж авч чадахгүй, мэдээлэлгүй бол шинэ мэдлэг гэж байхгүй.",
+        "instruction": "<em class='desktop-instruction'>Баруун тийш заасан сум товч дээр дарж илүү ихийг үзээрэй.</em><em class='mobile-instruction'>Зургийг зүүн баруун тийш гараараа илж солиорой. Тэгээд + тэмдэг дарж дэлгэрэнгүй үзээрэй,</em>",
         "_items": [
             {
-                "title": "Data",
-                "body": "<p>Data is the raw material from which information and knowledge can be derived.</p><p>Think of data as those locations, images, descriptions, reviews and prices that form the basis of information that can help you plan a holiday, for example.</p>",
+                "title": "Өгөгдөл",
+                "body": "<p>Өгөгдөл бол мэдээлэл, мэдлэг гаргаж авч болдог түүхий эд.</p><p>Жишээ нь, газарзүйн байршил, зураг, тайлбар, санал сэтгэгдэл, үнэ ханш зэргийг өгөгдөл гэж үзвэл энэ нь таныг аялалаа төлөвлөхөд шаардлагатай мэдээллийн суурийг бий болгох юм.</p>",
                 "_graphic": {
                     "src": "course/en/images/odi-2-narrative_large.jpg",
-                    "alt": "Data in knowledge triangle",
-                    "title": "Data in knowledge triangle",
+                    "alt": "Мэдлэгийн гурвалжин дэх өгөгдөл",
+                    "title": "Мэдлэгийн гурвалжин дэх өгөгдөл",
                     "*source":"http://www.shutterstock.com/pic.mhtml?id=240789808&src=lb-35924366",
                     "*credit":"Anna Frajtova",
                     "*license":"Shutterstock Standard License"
                 },
-                "strapline": "Data"
+                "strapline": "Өгөгдөл"
             },
             {
-                "title": "Information",
-                "body": "<p>Data becomes information when it is given a context.</p><p>Following on from the previous example, locations, images, descriptions and prices can all help provide information related to a tourist attraction.</p><p>The collection and presentation of data helps to form information.</p>",
+                "title": "Мэдээлэл",
+                "body": "<p>Ямар нэг агуулгыг (context) өгч байвал өгөгдөл нь мэдээлэл болдог.</p><p>Өмнөх жишээн дээр тайлбарлавал, газарзүйн байршил, зураг, тайлбар, үнэ ханш нь бүгд нийлээд аялагчдын очихыг хүсдэг газрын талаарх мэдээллийг бий болгож байна.</p><p>Өгөгдлийг цуглуулах, дүрслэх нь мэдээллийг бий болгоход тусалдаг.</p>",
                 "_graphic": {
                     "src": "course/en/images/odi-3-narrative_large.jpg",
-                    "alt": "Information in knowledge triangle",
-                    "title": "Information in knowledge triangle",
+                    "alt": "Мэдлэгийн гурвалжин дэх мэдээлэл",
+                    "title": "Мэдлэгийн гурвалжин дэх мэдээлэл",
                     "*source":"http://www.shutterstock.com/pic.mhtml?id=217763944&src=lb-35924366",
                     "*credit":"Sachezi",
                     "*license":"Shutterstock Standard License"
                 },
-                "strapline": "Information"
+                "strapline": "Мэдээлэл"
             },
             {
-                "title": "Knowledge",
-                "body": "<p>Knowledge is what is derived from information, and personalised for your needs.</p><p>Building knowledge is a process of turning information into choices.</p><p>Building on the previous example, knowing that no one in your family likes theme parks will help you to decide which places to avoid on holiday, and which would suit your family better.</p>",
+                "title": "Мэдлэг",
+                "body": "<p>Мэдлэг бол мэдээллээс гаргаж авсан, таны хэрэгцээнд нийцүүлсэн зүйл юм.</p><p>Мэдлэгийг бүтээх нь мэдээллийг сонголт болгон хувиргаж буй процесс болно.</p><p>Өмнөх жишээгээр ойлговол, гэр бүлийнхээ хэн нэгэнд чинь халуун говь таалагддаггүйг мэдсэнээр зуны амралтаар ямар газарлуу явахгүй байх, ямар газрыг илүү гэж үзэхийг шийдэхэд тусалж байна.</p>",
                 "_graphic": {
                     "src": "course/en/images/odi-4-narrative_large.jpg",
-                    "alt": "Knowledge in knowledge triangle",
-                    "title": "Knowledge in knowledge triangle",
+                    "alt": "Мэдлэгийн гурвалжин дэх мэдлэг",
+                    "title": "Мэдлэгийн гурвалжин дэх мэдлэг",
                     "*source":"http://www.shutterstock.com/pic.mhtml?id=250810483&src=lb-35924366",
                     "*credit":"Oleksiy Mark",
                     "*license":"Shutterstock Standard License"
                 },
-                "strapline": "Knowledge"
+                "strapline": "Мэдлэг"
             }
         ],
         "_pageLevelProgress": {
@@ -152,8 +152,8 @@
         "_classes":"",
         "_layout":"right",
         "_graphic": {
-            "alt": "What makes data open?",
-            "title": "What makes data open?",
+            "alt": "Өгөгдлийг юу нээлттэй болгодог вэ?",
+            "title": "Өгөгдлийг юу нээлттэй болгодог вэ?",
             "large": "course/en/images/odi-5-accordion_large.jpg",
             "medium": "course/en/images/odi-5-accordion_large.jpg",
             "small": "course/en/images/odi-5-accordion_large.jpg",
@@ -169,25 +169,25 @@
       "_component":"accordion",
       "_classes":"",
       "_layout":"left",
-      "title": "What makes data open?",
-      "displayTitle": "What makes data open?",
-      "body": "<p>Data is open if anyone can access, use and share it.<br />There are some simple things to consider when defining openness: </p>",
+      "title": "Өгөгдлийг юу нээлттэй болгодог вэ?",
+      "displayTitle": "Өгөгдлийг юу нээлттэй болгодог вэ?",
+      "body": "<p>Хэрэв өгөгдөлд хэн ч хандаж, ашиглах, бусдад түгээж чадаж байвал өгөгдөл нь нээлттэй болно.<br />Нээлттэй гэж тодорхойлоход анхаарах хэдэн зүйлс:</p>",
       "instruction": "",
       "_items": [
         {
-          "alt": "Limitations",
-          "title": "Limitations",
-          "body": "<p>For data to be open, it should have no limitations that prevent it from being used in any particular way</p><p>Anyone should be free to use, modify, combine and share the data, even commercially</p>"
+          "alt": "Хязгаарлалт",
+          "title": "Хязгаарлалт",
+          "body": "<p>Өгөгдлийг ямар нэг зорилгоор хэрэглэхэд саад болохуйц аливаа хязгаарлалтгүй байх ёстой. Ингэж байж өгөгдөл нээлттэй болно.</p><p>Хэн ч төлбөргүй ашигладаг, өөрчилдөг, нэгтгэж нийлүүлж болдог, бусдад дамжуулж түгээж болдог байна. Тэр байтугай арилжааны зорилгоор ашиглаж болдог байна.</p>"
         },
         {
-          "alt": "Cost",
-          "title": "Cost",
-          "body": "<p>Open data must be free to use, but this does not mean that it must be free to access.</p><p>There is often a cost to creating, maintaining and publishing usable data.</p><p>Ideally, any fee for accessing open data should be no more than the reasonable reproduction cost of the unit of data that is requested.</p><p>This reproduction cost tends to be negligible for many datasets.</p><p>Live data and big data can incur ongoing costs related to reliable service provision.</p>"
+          "alt": "Төлбөр",
+          "title": "Төлбөр",
+          "body": "<pНээлттэй өгөгдлийн төлбөргүй ашиглана. Гэхдээ энэ нь авахад, хандахад төлбөргүй гэсэн үг биш юм.</p><p>Хүнд хэрэгтэй өгөгдлийг үүсгэх, арчлах, нийтлэхэд үргэлж зардал гардаг.</p><p>Онолын хувьд, тухайн авахыг хүссэн өгөгдлийг хуулбарлаж өгөхөд гарах зардлыг төлж болохоос биш, нэмж үнэ тогтоосон байх ёсгүй юм.</p><p>Энэ хуулбарлах зардал нь ихэнх өгөгдлийн бүрдэл өчүүхэн бага байдаг.</p><p>Шууд гардаг өгөгдөл, их өгөгдөл зэргийг авахад найдвартай, тогтвортой ажилладаг үйлчилгээний зардал төлдөг байж болно.</p>"
         },
         {
-          "alt": "Reuse",
-          "title": "Reuse",
-          "body": "<p>Once the user has the data, they are free to use, reuse and redistribute it – even commercially.</p><p>Open data is measured by what it can be used for, not by how it is made available.</p><p>Aspects like format, structure and machine readability all make data more usable, and should all be carefully considered.</p><p>However, these do not make the data more open.</p>"
+          "alt": "Дахин ашиглах",
+          "title": "Дахин ашиглах",
+          "body": "<p>Хэрэглэгч нэгэнт өгөгдлийг авсан бол ашиглах, өөр зорилгоор дахин ашиглах, дахин түгээж нийтлэх, ашиг олох нь чөлөөтэй.</p><p>Нээлттэй өгөгдлийг хэрхэн бүтсэнээр бус, хэрхэн ашиглагдаж байгаагаар нь хэмждэг.</p><p>Өгөгдлийн формат, бүтэц, машин унших байдал зэрэг нь өгөгдлийг илүү хэрэглээтэй болгодог ба эдгээрийг чухалчилж авч үзэх хэрэгтэй.</p><p>Хэдий тийм боловч эдгээр өгөгдлийг бүр илүү нээлттэй болгож буй хэрэг биш юм.</p>"
         }
       ],
       "_pageLevelProgress": {
@@ -201,49 +201,49 @@
         "_type":"component",
         "_layout": "full",
         "_component": "narrative",
-        "title": "Why do we need open data?",
-        "displayTitle": "Why do we need open data?",
-        "body": "Open data can help bring diverse benefits to governments, businesses and civil society.",
-        "instruction": "<em class='desktop-instruction'>Click the forward arrow to see more.</em><em class='mobile-instruction'>Select the ‘+’ sign to explore further, then swipe the image to see more.</em>",
+        "title": "Нээлттэй өгөгдөл яагаад хэрэгтэй вэ?",
+        "displayTitle": "Нээлттэй өгөгдөл яагаад хэрэгтэй вэ?",
+        "body": "Нээлттэй өгөгдөл нь төр, хувийн хэвшил, иргэний нийгмийн байгууллагад олон талын үр шиг авч ирэхэд тусалдаг.",
+        "instruction": "<em class='desktop-instruction'>Сумыг дараад илүү ихийг үзээрэй.</em><em class='mobile-instruction'>Зургийг хажуу тийш гүйлгээд, + тэмдэг дарж илүү ихийг үзээрэй.</em>",
         "_items": [
             {
-                "title": "Transforming government",
-                "body": "<p>Open data can help make governments more transparent. It can provide the evidence that public money is being well spent and policies are being implemented.</p><p class='not-dlab'>For example, according to leading open government activist David Eaves, open data allowed citizens in Canada to save the government $3.2bn in fraudulent charitable donations in 2010.<br /><a href='http://eaves.ca/2010/04/14/case-study-open-data-and-the-public-purse/' target='_blank'>Take me to David Eaves' article</a></p><p class='not-tz not-dlab not-default'>Based on the forecasted EU28+ GDP for 2020, whilst taking into account the countries’ respective government expenditure averages, the cost savings per country can be calculated. The accumulated cost savings for the EU28+ in 2020 are <a href='http://www.europeandataportal.eu/sites/default/files/edp_creating_value_through_open_data_0.pdf#page=11' target='_blank'>forecasted to equal 1.7 bn EUR.</a></p><p class='not-tz not-dlab not-default'>Lexbase is a web service that provides public information from Swedish courts and other authorities. On the website judgments in criminal and civil cases concerning individuals and companies can be found. The database is updated with new judgments and decisions every day. The website is used to <a href='https://www.lexbase.se/' target='_blank'>provide citizens with information about the criminality in different areas</a>.</p><p class='not-eu not-default'>For example, The open data dashboard for education in Tanzania motivates citizens to demand greater accountability from their school system and public officials.<br /><a href='http://odimpact.org/case-open-education-information-in-tanzania.html' target='_blank'>Take me to the education dashboard.</a></p><p>In another example, according to Follow the Money in Nigeria, the same process is used to ensure that public funds are spent implementing the policies promised to the people.<br /><a href='http://followthemoneyng.org/' target='_blank'>Take me to Follow the Money</a></p>",
+                "title": "Төр засгийг сайжруулах",
+                "body": "<p>Нээлттэй өгөгдөл төр засгийг илүү ил тод болоход тусалдаг. Энэ нь төсвийн мөнгийг үр ашигтай зарцуулалт, засгийн бодлого шийдвэр хэрхэн хэрэгжиж байгаагийн баталгаа болж чадна.</p><p class='not-dlab'>Жишээ нь, нээлттэй засаглалын мэргэжилтэн Дэвид Эйвэс: нээлттэй өгөгдөл нь Канадын иргэдэд засгийн газрын 3.2 тэрбум ам. долларыг хуурамч хандиваас хэмнэх боломжийг 2010 онд олгосон гэжээ.<br /><a href='http://eaves.ca/2010/04/14/case-study-open-data-and-the-public-purse/' target='_blank'>Дэвид Эйвэсийн нийтлэл</a></p>",
                 "_graphic": {
                     "src": "course/en/images/odi-6-narrative_large.png",
-                    "alt": "Transforming government",
-                    "title": "Transforming government",
+                    "alt": "Төр засгийг сайжруулах",
+                    "title": "Төр засгийг сайжруулах",
                     "*source":"http://www.shutterstock.com/pic-255896113",
                     "*credit":"Pretty Vectors",
                     "*license":"Shutterstock Standard License"
                 },
-                "strapline": "Transforming government"
+                "strapline": "Төр засгийг сайжруулах"
             },
             {
-                "title": "Building new business opportunities",
-                "body": "<p>Open data is opening up new opportunities for businesses to connect with customers.</p><p class='not-dlab'>Transport for London has released open data that developers have used to build over 800 transport apps.<br /><a href='http://www.tfl.gov.uk/' target='_blank'>Take me to Transport for London</a></p><p class='not-dlab'>Thomson Reuters is using open data to connect with existing customers in order to provide better services.<br /><a href='http://site.thomsonreuters.com/site/data-identifiers/' target='_blank'>Take me to Thomson Reuters</a></p><p class='not-eu'>Find My School enables you to find the right school for you by location and exam results.<br/><a href='http://findmyschool.co.ke/discover' target='_blank'>Take me to Find My School</a></p><p>Startups in the ODI Startup programme now collectively employ over 70 people and generate over £4m in income.<br /><a href='http://theodi.org/odis-second-year-annual-report' target='_blank'>Take me to the ODI annual report</a></p>",
+                "title": "Бизнесийн шинэ боломжийг бүрдүүлэх",
+                "body": "<p>Нээлттэй өгөгдөл нь бизнесүүд харилцагчидтайгаа холбогдох шинэ боломжийг нээж өгдөг.</p><p class='not-dlab'>Лондон хотын Тээврийн газар нээлттэй өгөгдлийг нийтэлснээр програм хөгжүүлэгчид 800 гаруй тээвэртэй холбоотой апп хөгжүүлжээ.<br /><a href='http://www.tfl.gov.uk/' target='_blank'>Лондонгийн тээврийн жишээ</a></p>",
                 "_graphic": {
                     "src": "course/en/images/odi-7-narrative_large.jpg",
-                    "alt": "Building new business opportunities",
-                    "title": "Building new business opportunities",
+                    "alt": "Бизнесийн шинэ боломжийг бүрдүүлэх",
+                    "title": "Бизнесийн шинэ боломжийг бүрдүүлэх",
                     "*source":"http://www.shutterstock.com/pic.mhtml?id=149924576&src=lb-35924366",
                     "*credit":"Sergey Nivens",
                     "*license":"Shutterstock Standard License"
                 },
-                "strapline": "Building new business opportunities"
+                "strapline": "Бизнесийн шинэ боломжийг бүрдүүлэх"
             },
             {
-                "title": "Protecting our planet",
-                "body": "<p>The web has become a core part of our infrastructure and open data will build on this.</p><p>Open data about weather can provide an early warning system for environmental disasters, for example.<br /><a href='http://www.un.org/apps/news/story.asp?NewsID=13077&Cr=natural&Cr1=disaster#.VVyWK_lVhBc' target='_blank'>Take me to the United Nations news centre</a></p><p>Open data is also helping consumers to understand their personal impacts on the environment, and take steps to improve it.<br /><a href='https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/39386/12-1324-better-choices-better-deals-report-on-progress-on-the-consumer-empowerment-strategy.pdf' target='_blank'>Take me to Better Choices Better Deals report</a></p>",
+                "title": "Эх дэлхийг хамгаалах",
+                "body": "<p>Веб бидний суурь бүтцийн гол хэсэг нь болсон. Нээлттэй өгөгдөл үүн дээр бий болж байна.</p><p>Жишээ нь, цаг агаарын талаарх нээлттэй өгөгдлийг байгалийн гамшиг болох тухай урьдчилсан сэрэмжлүүлэх системд хэрэглэж болно.<br /><a href='http://www.un.org/apps/news/story.asp?NewsID=13077&Cr=natural&Cr1=disaster#.VVyWK_lVhBc' target='_blank'>НҮБ-ийн мэдээллийн төв</a></p>",
                 "_graphic": {
                     "src": "course/en/images/odi-8-narrative_large.jpg",
-                    "alt": "Protecting our planet",
-                    "title": "Protecting our planet",
+                    "alt": "Эх дэлхийг хамгаалах",
+                    "title": "Эх дэлхийг хамгаалах",
                     "*source":"http://www.shutterstock.com/pic-185008832",
                     "*credit":"surassawadee",
                     "*license":"Shutterstock Standard License"
                 },
-                "strapline": "Protect our planet"
+                "strapline": "Эх дэлхийг хамгаалах"
             }
         ],
         "_pageLevelProgress": {
@@ -275,9 +275,9 @@
         "_component":"text",
         "_classes":"",
         "_layout":"left",
-        "title":"Are you ready for open data?",
-        "displayTitle":"Are you ready for open data?",
-        "body":"<p>There are four helpful things to remember when thinking about opening your data. Can you remember them?</p>",
+        "title":"Нээлттэй өгөгдлийг нийтлэхэд бэлэн үү?",
+        "displayTitle":"Нээлттэй өгөгдлийг нийтлэхэд бэлэн үү?",
+        "body":"<p>Өгөгдлөө нээхэд санах ёстой дөрвөн зүйл байна. Санаж байна уу?</p>",
         "instruction":"",
         "_pageLevelProgress": {
             "_isEnabled": true
@@ -291,7 +291,7 @@
         "_classes":"illustration",
         "_layout":"right",
         "_graphic": {
-            "alt": "What is open data?",
+            "alt": "Нээлттэй өгөгдөл гэж юу вэ?",
             "title": "",
             "large": "course/en/images/odi-9-mcq-image_large.jpg",
             "medium": "course/en/images/odi-9-mcq-image_large.jpg",
@@ -313,29 +313,29 @@
         "_questionWeight":1,
         "_isRandom":true,
         "_selectable":1,
-        "title": "What is open data?",
-        "displayTitle": "What is open data?",
-        "body": "<p>Open data is...</p>",
-        "instruction": "<em>Choose your answer, then click 'Submit'</em>",
+        "title": "Нээлттэй өгөгдөл гэж юу вэ?",
+        "displayTitle": "Нээлттэй өгөгдөл гэж юу вэ?",
+        "body": "<p>Нээлттэй өгөгдөл бол...</p>",
+        "instruction": "<em>Хариултаа сонгоод 'Хариулах' товчийг дараарай.</em>",
         "_items": [
             {
-                "text": "information that we sell to businesses",
+                "text": "бизнесүүдэд зардаг мэдээлэл",
                 "_shouldBeSelected": false
             },
             {
-                "text": "data that anyone can access, use and share",
+                "text": "хэн ч хандаж, ашиглаж, хуваалцаж болдог өгөгдөл",
                 "_shouldBeSelected": true
             },
             {
-                "text": "data that is visible on the Web",
+                "text": "веб дээр байгаа өгөгдөл",
                 "_shouldBeSelected": false
             }
         ],
         "_feedback":{
-            "correct":"<h5>That’s right!</h5><p><strong>Open data</strong> is <strong>data that anyone can access, use and share</strong>.<br />Open data must also be licensed to allow free usage and be available for commercial use.</p>",
+            "correct":"<h5>Зөв шүү!</h5><p><strong>Нээлттэй өгөгдөл</strong> бол <strong>хэн ч хандаж, ашиглаж, хуваалцаж болдог өгөгдөл</strong>.<br />Нээлттэй өгөгдөл бас чөлөөтэй ашиглах, арилжааны зорилгоор хэрэглэхийг зөвшөөрсөн лицензтэй байх ёстой.</p>",
             "_incorrect": {
-                "notFinal": "<h5>Are you sure about that?</h5><p><strong>Open data</strong> is <strong>data that anyone can access, use and share</strong>. <br/>Open data must also be licensed to allow free usage and must also be available for commercial use.</p></p>",
-                "final": "<h5>Are you sure about that?</h5><p><p><strong>Open data</strong> is <strong>data that anyone can access, use and share</strong>. <br/>Open data must also be licensed to allow free usage and must also be available for commercial use.</p></p>"
+                "notFinal": "<h5>Итгэлтэй байна уу?</h5><p><strong>Нээлттэй өгөгдөл</strong> бол <strong>хэн ч хандаж, ашиглаж, хуваалцаж болдог өгөгдөл</strong>. <br/>Нээлттэй өгөгдөл бас чөлөөтэй ашиглах, арилжааны зорилгоор хэрэглэхийг зөвшөөрсөн лицензтэй байх ёстой.</p></p>",
+                "final": "<h5>Та үүнд итгэлтэй байна уу?</h5><p><p><strong>Нээлттэй өгөгдөл</strong> бол <strong>хэн ч хандаж, ашиглаж, хуваалцаж болдог өгөгдөл</strong>. <br/>Нээлттэй өгөгдөл бас чөлөөтэй ашиглах, арилжааны зорилгоор хэрэглэхийг зөвшөөрсөн лицензтэй байх ёстой.</p></p>"
             },
             "_partlyCorrect": {
                 "notFinal": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -360,7 +360,7 @@
         "_classes":"illustration",
         "_layout":"left",
         "_graphic": {
-            "alt": "Data, information, knowledge tiangle",
+            "alt": "Өгөгдөл, мэдээлэл, мэдлэгийн гурвалжин",
             "title": "",
             "large": "course/en/images/odi-10-mcq_large.jpg",
             "medium": "course/en/images/odi-10-mcq_large.jpg",
@@ -388,29 +388,29 @@
         "_questionWeight":1,
         "_isRandom":true,
         "_selectable":1,
-        "title": "What is data?",
-        "displayTitle": "What is data?",
-        "body": "<p>Data is...</p>",
-        "instruction": "<em>Choose your answer, then click 'Submit'.</em>",
+        "title": "Өгөгдөл гэж юу вэ?",
+        "displayTitle": "Өгөгдөл гэж юу вэ?",
+        "body": "<p>Өгөгдөл бол...</p>",
+        "instruction": "<em>Хариултаа сонгоод 'Хариулах' товчийг дараарай.</em>",
         "_items": [
             {
-                "text": "numbers, words, maps and photos.",
+                "text": "тоо, үг, газрын зураг болон зураг.",
                 "_shouldBeSelected": false
             },
             {
-                "text": "information posted on the Web.",
+                "text": "Веб дээр нийтэлсэн мэдээлэл.",
                 "_shouldBeSelected": false
             },
             {
-                "text": "the raw material of information and knowledge.",
+                "text": "мэдээлэл, мэдлэгийн түүхий эд.",
                 "_shouldBeSelected": true
             }
         ],
         "_feedback":{
-            "correct":"<h5>That’s right!</h5><p>Data is the lowest level of raw material from which information and knowledge can be derived.</p>",
+            "correct":"<h5>Тийм шүү!</h5><p>Өгөгдөл бол мэдээлэл, мэдлэгийг гаргаж авч болдог хамгийн доод түвшний түүхий эд материал.</p>",
             "_incorrect": {
-                "notFinal": "<h5>Are you sure about that?</h5><p>Data is the lowest level of raw material from which information and knowledge can be derived.</p>",
-                "final": "<h5>Are you sure about that?</h5><p>Data is the lowest level of raw material from which information and knowledge can be derived.</p>"
+                "notFinal": "<h5>Та итгэлтэй байна уу?</h5><p>Өгөгдөл бол мэдээлэл, мэдлэгийг гаргаж авч болдог хамгийн доод түвшний түүхий эд материал.</p>",
+                "final": "<h5>Итгэлтэй байна уу?</h5><p>Өгөгдөл бол мэдээлэл, мэдлэгийг гаргаж авч болдог хамгийн доод түвшний түүхий эд материал.</p>"
             },
             "_partlyCorrect": {
                 "notFinal": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -457,29 +457,29 @@
         "_questionWeight":1,
         "_isRandom":true,
         "_selectable":1,
-        "title": "What makes data open?",
-        "displayTitle": "What makes data open?",
-        "body": "<p>Open data should be...</p>",
-        "instruction": "<em>Choose your answer, then click 'Submit'</em>",
+        "title": "Өгөгдлийг юу нээлттэй болгодог вэ?",
+        "displayTitle": "Өгөгдлийг юу нээлттэй болгодог вэ?",
+        "body": "<p>Нээлттэй өгөгдөл бол ...</p>",
+        "instruction": "<em>Хариултаа сонгоод 'Хариулах' товчийг дараарай.</em>",
         "_items": [
             {
-                "text": "free of restrictions for its use",
+                "text": "хэрэглэхэд чөлөөтэй, саад үгүй",
                 "_shouldBeSelected": true
             },
             {
-                "text": "restricted in its use",
+                "text": "хэрэглэхэд зарим хязгаарлалттай",
                 "_shouldBeSelected": false
             },
             {
-                "text": "selectively released for a fee",
+                "text": "төлбөртэйгээр сонгож нийтэлсэн",
                 "_shouldBeSelected": false
             }
         ],
         "_feedback":{
-            "correct":"<h5>That’s right!</h5><p>If something restricts the free use of the data, such as a non-commercial restriction, then this would not qualify as being open data.</p>",
+            "correct":"<h5>Зөв!</h5><p>Хэрэв өгөгдлийг чөлөөтэй хэрэглэхэд, жишээ нь арилжааны бус зорилгоор гэх зэрэг, саадтай бол энэ нь нээлттэй өгөгдлийн шалгуурт нийцэхгүй.</p>",
             "_incorrect": {
-                "notFinal": "<h5>Are you sure about that?</h5><p>If something restricts the free use of the data, such as a non-commercial restriction, then this would not qualify as being open data.</p>",
-                "final": "<h5>Are you sure about that?</h5><p>If something restricts the free use of the data, such as a non-commercial restriction, then this would not qualify as being open data.</p>"
+                "notFinal": "<h5>Итгэлтэй байна уу?</h5><p>Хэрэв өгөгдлийг чөлөөтэй хэрэглэхэд, жишээ нь арилжааны бус зорилгоор гэх зэрэг, саадтай бол энэ нь нээлттэй өгөгдлийн шалгуурт нийцэхгүй.</p>",
+                "final": "<h5>Итгэлтэй байна уу?</h5><p>Хэрэв өгөгдлийг чөлөөтэй хэрэглэхэд, жишээ нь арилжааны бус зорилгоор гэх зэрэг, саадтай бол энэ нь нээлттэй өгөгдлийн шалгуурт нийцэхгүй.</p>"
             },
             "_partlyCorrect": {
                 "notFinal": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -504,7 +504,7 @@
         "_classes":"illustration",
         "_layout":"left",
         "_graphic": {
-            "alt": "Why do we need open data?",
+            "alt": "Нээлттэй өгөгдөл яагаад хэрэгтэй вэ?",
             "title": "",
             "large": "course/en/images/odi-12-mcq_large.jpg",
             "medium": "course/en/images/odi-12-mcq_large.jpg",
@@ -526,29 +526,29 @@
         "_questionWeight":1,
         "_isRandom":true,
         "_selectable":1,
-        "title": "Why do we need open data?",
-        "displayTitle": "Why do we need open data?",
-        "body": "<p>What does open data have the power to do?</p>",
-        "instruction": "<em>Choose your answer, then click 'Submit'</em>",
+        "title": "Нээлттэй өгөгдөл яагаад хэрэгтэй вэ?",
+        "displayTitle": "Нээлттэй өгөгдөл яагаад хэрэгтэй вэ?",
+        "body": "<p>Нэээлттэй өгөгдөлд юуг хийх хүч байна вэ?</p>",
+        "instruction": "<em>Хариултаа сонгоод 'Хариулах' товчийг дараарай.</em>",
         "_items": [
             {
-                "text": "Give access to other datasets",
+                "text": "Бусад өгөгдлийн бүрдэлд хандах боломжийг олгох",
                 "_shouldBeSelected": false
             },
             {
-                "text": "Make governments accountable",
+                "text": "Төр засгийг хариуцлагатай болгох",
                 "_shouldBeSelected": false
             },
             {
-                "text": "Unlock social, environmental and economic value",
+                "text": "Нийгмийн, хүрээлэн буй орчны, эдийн засгийн үр ашгийг бий болгох",
                 "_shouldBeSelected": true
             }
         ],
         "_feedback":{
-            "correct":"<h5>That’s right!</h5><p>Open data can transform interaction between governments, businesses and individuals. It has the power to help improve services, grow economies and protect our planet.</p>",
+            "correct":"<h5>Зөв шүү!</h5><p>Нээлттэй өгөгдөл төр, хувийн хэвшил, хувь хүмүүсийн харилцааг холбоог сайжруулна. Үүнд үйлчилгээг сайжруулах, эдийн засгийг өсгөх, эх дэлхийг хамгаалах хүч бий.</p>",
             "_incorrect": {
-                "notFinal": "<h5>Are you sure about that?</h5><p>Open data can transform interaction between governments, businesses and individuals. It has the power to help improve services, grow economies and protect our planet.</p>",
-                "final": "<h5>Are you sure about that?</h5><p>Open data can transform interaction between governments, businesses and individuals. It has the power to help improve services, grow economies and protect our planet.</p>"
+                "notFinal": "<h5>Та үүнд итгэлтэй байна уу?</h5><p>Нээлттэй өгөгдөл төр, хувийн хэвшил, хувь хүмүүсийн харилцааг холбоог сайжруулна. Үүнд үйлчилгээг сайжруулах, эдийн засгийг өсгөх, эх дэлхийг хамгаалах хүч бий.</p>",
+                "final": "<h5>Та ингэж бодож байна уу?</h5><p>Нээлттэй өгөгдөл төр, хувийн хэвшил, хувь хүмүүсийн харилцааг холбоог сайжруулна. Үүнд үйлчилгээг сайжруулах, эдийн засгийг өсгөх, эх дэлхийг хамгаалах хүч бий.</p>"
             },
             "_partlyCorrect": {
                 "notFinal": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -573,8 +573,8 @@
         "_classes":"",
         "_layout":"right",
         "_graphic": {
-            "alt": "Summary icon clipboard",
-            "title": "Summary icon clipboard",
+            "alt": "Хураангуйлсан дүрс тэмдэг",
+            "title": "Хураангуйлсан дүрс тэмдэг",
             "large": "course/en/images/summary-icon.png",
             "medium": "course/en/images/summary-icon.png",
             "small": "course/en/images/summary-icon.png",
@@ -590,9 +590,9 @@
         "_component":"text",
         "_classes":"",
         "_layout":"left",
-        "title":"Open data<span class='not-dlab' - veni, vidi, vici</span>",
-        "displayTitle":"Open data<span class='not-dlab' - veni, vidi, vici</span>",
-        "body":"<p>Open data is <strong>data that anyone can access, use and share</strong>.</p><p>Open data is a raw material for the digital age but, unlike coal, timber or diamonds, it can be used by anyone and everyone at the same time.</p><p>Any restrictions imposed on the use of open data will limit its potential for creating new value.</p><p>Open data can bring diverse benefits to governments, businesses and individuals. It has the power to help improve services, grow economies and protect our planet.</p><p>In the next module, we will explore how value is unlocked in open data.</p><p><a class='course_link' href='../module2/'>Next module</a></p><p><a class='course_link' href='../'>Main menu</a></p>",
+        "title":"Нээлттэй өгөгдөл<span class='not-dlab' - veni, vidi, vici</span>",
+        "displayTitle":"Нээлттэй өгөгдөл<span class='not-dlab' - veni, vidi, vici</span>",
+        "body":"<p>Нэээлттэй өгөгдөл бол <strong>хэн ч хандаж, ашиглах, хуваалцаж болдог өгөгдөл</strong>.</p><p>Нээлттэй өгөгөдөл бол дижитал эрин үеийн түүхий эд материал. Нээлттэй өгөгдөл нүүрс, зэсийн хүдэр, модтой адилгүй, хэн ч, хэзээ ч нэгэн зэрэг ашиглаж болдог онцгой түүхий эд.</p><p>Нээлттэй өгөгдлийг ашиглахад ямар нэг хязгаарлалт нь шинэ үнэ цэн бүтээх боломжийг бууруулдаг.</p><p>Нээлттэй өгөгдөл төр, бизнес болон хувь хүмүүст янз бүрийн үр ашиг авч ирдэг. Энд үйлчилгээг сайжруулах, эдийн засгийг өсгөх, эх дэлхийг хамгаалах хүч бий.</p><p>Дараагийн модулиар, нээлттэй өгөгдлөөр ямар үнэ цэнийг бүтээж байгаа талаар танилцана.</p><p><a class='course_link' href='../module2/'>Дараагийн модуль</a></p><p><a class='course_link' href='../'>Үндсэн цэс</a></p>",
         "_pageLevelProgress": {
           "_isEnabled": true
         }
